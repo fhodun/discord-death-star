@@ -1,1 +1,3 @@
-# discord-death-star
+# Discord Death Star
+
+Still in development.
